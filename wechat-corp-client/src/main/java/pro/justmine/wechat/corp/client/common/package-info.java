@@ -1,0 +1,1 @@
+package pro.justmine.wechat.corp.client.common;
